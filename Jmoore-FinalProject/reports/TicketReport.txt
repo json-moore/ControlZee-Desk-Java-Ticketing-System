@@ -1,0 +1,30 @@
+Ticket Report
+====================
+
+ID: 1
+Title: Printer Exploded and is on fire
+Status: OPEN
+Priority: URGENT
+Team: HARDWARE_TEAM
+Notes:
+
+--------------------
+
+ID: 2
+Title: Someone is controlling my mouse
+Status: OPEN
+Priority: URGENT
+Team: SECURITY_TEAM
+Notes:
+
+--------------------
+
+ID: 3
+Title: Locked out of computer
+Status: OPEN
+Priority: LOW
+Team: IT_SUPPORT
+Notes:
+
+--------------------
+
