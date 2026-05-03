@@ -91,7 +91,7 @@ Run TicketUI.java
 ![Dashboard displaying existing tickets and an action pane with buttons](Jmoore-FinalProject/Images/CZD_Dashboard.png)
 <br>
 ### Create Ticket Window:
-![Display window showing fields for entering ticket details](wwwroot/Images/DeveloprBud_Tasks.png)
+![Display window showing fields for entering ticket details](Jmoore-FinalProject/Images/CZD_Createwindow.png)
 <br>
 ### View Ticket Window:
 ![Display window for showing ticket details and notes](Jmoore-FinalProject/Images/CZD_Ticketview.png)
