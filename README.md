@@ -52,14 +52,15 @@ Control-Zee Desk is a desktop-based help desk ticketing system built in Java usi
 > Required: Java JDK (8 or newer) and an IDE (IntelliJ, Eclipse, or NetBeans)
 
 1. Clone the repository:
+```
 git clone https://github.com/json-moore/ControlZee-Desk-Java-Ticketing-System.git
+```
+3. Open the project in your IDE
 
-2. Open the project in your IDE
-
-3. Run the application:
+4. Run the application:
 Run TicketUI.java
 
-4. The application will launch as a desktop window
+5. The application will launch as a desktop window
 
 ---
 
